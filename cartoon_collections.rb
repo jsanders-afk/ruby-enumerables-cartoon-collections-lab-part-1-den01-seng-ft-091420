@@ -13,7 +13,7 @@ def list_dwarves(array)
     puts char
   end
 end
-
+binding.pry
 
 
 
