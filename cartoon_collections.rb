@@ -13,7 +13,7 @@ def list_dwarves(array)
     puts "#{i + 1}. #{char}"
   end
 end
-binding.pry
+
 
 
 
