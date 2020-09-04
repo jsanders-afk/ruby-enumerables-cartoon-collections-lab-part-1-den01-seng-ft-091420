@@ -10,7 +10,7 @@ end
 
 def list_dwarves(array)
   array.each_with_index do |char, i|
-    puts char
+    puts "#{i + 1}. #{char}"
   end
 end
 binding.pry
