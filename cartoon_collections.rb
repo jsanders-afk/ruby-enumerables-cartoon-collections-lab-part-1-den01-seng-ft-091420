@@ -1,6 +1,6 @@
 require 'pry'
 
-array = ["Hoggle", "Ludo", "Sir Didymus"]
+array = ["Gimli", "Thorin", "Balin", "Gloin"]
 
 def greet_characters(array)
 array.each do |char|
